@@ -20,8 +20,8 @@ body {
      
   }
  div#wrapper{
-  width:10000px;
-   /* or  width:calc(7 * 220px - 20px); */
+  width:calc(9 * 220px - 20px);
+   
  }
   img{
       width: 200px;
